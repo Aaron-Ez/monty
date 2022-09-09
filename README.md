@@ -1,1 +1,1 @@
-c - stacks and queues
+c -stacks and queues
